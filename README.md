@@ -2,7 +2,7 @@
 
 ## Description
 This project shows how to generate and manipulate simple signals using Python and NumPy.  
-It is designed for a **mid-term evaluation** in a Signals and Systems course.
+It is designed for the **mid-term evaluation** in a Signals and Systems course.
 
 The code includes:
 - Functions to generate signals (sine)
